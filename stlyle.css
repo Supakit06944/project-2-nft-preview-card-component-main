@@ -27,6 +27,7 @@ body {
 }
 .image {
   position: relative;
+  cursor: pointer;
 }
 .image:hover .eye {
   opacity: 1;
